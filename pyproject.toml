@@ -1,0 +1,25 @@
+[tool.poetry]
+name = "modelo-sabesp"
+version = "0.1.0"
+description = "projeto de tcc com ml de deploy para previsao de volume do sistema da sabesp"
+authors = ["Lucas Zanforlin"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.9.4,<3.13"
+pandas = "^2.1.1"
+numpy = "^1.26.1"
+seaborn = "^0.13.0"
+ipykernel = "^6.26.0"
+openpyxl = "^3.1.2"
+scipy = "^1.11.3"
+
+[tool.poetry.group.dev.dependencies]
+python = ">=3.9.4,<3.13"
+pandas = "^2.1.1"
+numpy = "^1.26.1"
+seaborn = "^0.13.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
