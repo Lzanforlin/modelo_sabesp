@@ -1,2 +1,2 @@
 # modelo_sabesp
-TCC modelo de ML para previsao de volume do reservatorio São Lourenço 
+Criação de modelo para predição do nível de reservatório da SABESP, baseado em dados históricos.
