@@ -2,6 +2,7 @@
 
 "Final Project: Ensemble Deep Learning Model for Water Management: Forecasting Sabesp's
 Cantareira Reservoir Levels
+
 Project Summary:
 This project aims to support water management and prevent supply crises during periods of scarcity by forecasting reservoir levels in Sabesp's Cantareira System. It combines Long Short-Term Memory (LSTM) Recurrent Neural Networks (RNN) with time series data for accurate level prediction. The solution includes API integration for data access and a dashboard for continuous monitoring and visualization of trends, enhancing proactive water resource management."
 
