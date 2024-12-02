@@ -1,5 +1,5 @@
 # previsao-sistema-cantareira
-Projeto TCC da Univesp que visa desenvolver modelos de previsão do volume do Sistema Cantareira utilizando métodos de machine learning e ferramentas de visualização de dados.
+Projeto TCC da Univesp que visa desenvolver modelos de previsão do volume do Sistema Cantareira utilizando métodos de machine learning e deep learning utilizando API e ferramentas de visualização de dados e Dashboard.
 
 [A aplicação pode ser acessada aqui](https://previsao-cantareira.streamlit.app/).
 
