@@ -1,6 +1,6 @@
 # previsao-sistema-cantareira
 
-"Final Project: Ensemble Machine and Deep Learning Model for Water Management: Forecasting Sabesp's
+"Final Project: Time Series ensemble Machine and Deep Learning Model for Water Management: Forecasting Sabesp's
 Cantareira Reservoir Levels
 
 Project Summary:
