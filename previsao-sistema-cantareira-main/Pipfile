@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+streamlit = "*"
+typing-extensions = "*"
+pandas = "*"
+prophet = "*"
+openpyxl = "*"
+plotly = ">=5.14.1"
+orjson = "*"
+st-pages = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"

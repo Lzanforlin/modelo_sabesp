@@ -1,0 +1,2 @@
+# modelo-prophet
+Modelo que utiliza o Prophet para prever valores futuros. Para gerar o modelo, primeiro é necessário que o ambiente virtual do projeto esteja ativo (ver instruções de setup no README principal do repositório). Após isso, execute `python gerar-modelo.py`, que gera os arquivos de modelo e previsão para serem utilizados na interface de visualização ou por modelos ensemble.
